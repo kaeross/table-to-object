@@ -23,6 +23,6 @@ Output of calling `table1.tableArr`
 
 ```javascript
  > (2) [{…}, {…}]
-0: {Col1Key: "Val1Row1", Col2Key: "Val2Row1"}
-1: {Col1Key: "Val1Row2", Col2Key: "Val2Row2"}
+0: {Col1Row1Key: "Val1Row1", Col2Row1Key: "Val2Row1"}
+1: {Col1Row2Key: "Val1Row2", Col2Row2Key: "Val2Row2"}
 ```
