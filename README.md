@@ -1,4 +1,4 @@
-# table-to-object
+# Table to object converter
 JS script to convert any table into an object.
 
 ## Usage
